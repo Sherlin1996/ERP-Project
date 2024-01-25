@@ -1,7 +1,26 @@
-# ERP Poject 工作日誌系統
-###### tags: `Flask restful-API`
-代理路由:http://54.186.56.114/diary 可用postman測試
-## /login
+# ERP system
+### 直覺易用、智能分析、雙向互動的人力資源管理與潛在訂單追蹤系統，降低組織導入成本，高維度的數據分析，更有效率的洞見缺失與機會。
+
+<br>
+
+![學習資源](https://user-images.githubusercontent.com/106952571/187547220-8d31279e-ba19-41c0-973d-3aca117d401e.gif)
+
+https://user-images.githubusercontent.com/106952571/187547091-3e3b1bd3-28b9-47dd-aab5-3835b1f3381c.mp4
+
+## Landing Page
+:link: 人力資源管理 : http://hr.foresii.com  
+:link: 潛在訂單追蹤 : http://crm.foresii.com
+## Product Launch
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ijWpAYtRWNg/0.jpg)](https://www.youtube.com/watch?v=ijWpAYtRWNg?t=5277s "Product Launch")
+## Skills
+ :small_blue_diamond: Nginx 靜態渲染、設定網域轉發與反向代理  
+ :small_blue_diamond: X-Forwarded-For 將客戶端 IP 傳送至後端主機紀錄  
+ :small_blue_diamond: Flask 建置推薦系統及 RESTful API，subprocess 異步觸發爬蟲程序  
+ :small_blue_diamond: Gunicorn 架設後端 WSGI server, gevent worker 實現 coroutine  
+ :small_blue_diamond: Systemd 運行 Linux daemon service，Crontab 排程管理
+
+## API
+### /login
 ### post
 #### 登入
 - **學生**  
