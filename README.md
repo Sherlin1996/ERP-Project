@@ -3,6 +3,8 @@
 
 <br>
 
+![技能配對](https://github.com/Sherlin1996/ERP-Project/assets/106952827/a7a97912-ef5c-4fc1-b970-1ba08a82fbaa)
+
 ![學習資源](https://user-images.githubusercontent.com/106952571/187547220-8d31279e-ba19-41c0-973d-3aca117d401e.gif)
 
 https://user-images.githubusercontent.com/106952571/187547091-3e3b1bd3-28b9-47dd-aab5-3835b1f3381c.mp4
